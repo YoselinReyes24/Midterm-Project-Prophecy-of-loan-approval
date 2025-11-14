@@ -14,8 +14,8 @@ The conclusions describe how the reproduced results align with or differ from th
 ├── README.md                 # Project overview and documentation
 ├── requirements.txt
 ├── loan_approval_dataset.csv      # Dataset used for the analysis
-├── Midter_LoanApproval(1).ipynb   # Jupyter notebook containing all ML modeling work
-└── **Presentation Link:** *[Insert your link here]*
+├── Midterm_LoanApproval(1).ipynb   # Jupyter notebook containing all ML modeling work
+└── **Presentation Link:** *https://www.canva.com/design/DAG4s6AaYZs/pcmlWUCdmwAF72XkfBcHZQ/edit?utm_content=DAG4s6AaYZs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton*
 ```
 
 
