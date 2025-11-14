@@ -12,6 +12,7 @@ The conclusions describe how the reproduced results align with or differ from th
 
 ```
 ├── README.md                 # Project overview and documentation
+├── requirements.txt
 ├── data/
 │   └── data.csv              # Dataset used for the analysis (your .csv file)
 │
