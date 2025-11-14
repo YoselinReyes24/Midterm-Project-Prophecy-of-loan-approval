@@ -10,14 +10,17 @@ The conclusions describe how the reproduced results align with or differ from th
 
 ##  Repository Structure
 
+```
 ├── README.md                 # Project overview and documentation
 ├── data/
-│   └── loan_approval_dataset.csv              # Dataset used for the analysis (your .csv file)
+│   └── data.csv              # Dataset used for the analysis (your .csv file)
 │
 ├── models/
-    └── midterm_LoanApproval.ipynb  # Jupyter notebook containing all ML modeling work
+│   └── final_notebook.ipynb  # Jupyter notebook containing all ML modeling work
+│
+└── **Presentation Link:** *[Insert your link here]*
+```
 
-**Presentation Link:** *[Insert your link here]*
 
 ---
 
@@ -69,18 +72,25 @@ Using the given dataset, the notebook performs:
 ##  How to Run This Project
 
 1. Clone the repository:
-git clone https://github.com/YoselinReyes24/Midterm-Project-Prophecy-of-loan-approval
 
+```
+git clone https://github.com/YoselinReyes24/Midterm-Project-Prophecy-of-loan-approval
+```
 
 2. Install dependencies (recommended: create a virtual environment):
-pip install -r requirements.txt
 
+```
+pip install -r requirements.txt
+```
 
 3. Open the notebook:
-jupyter lab
 
+```
+jupyter lab
+```
 
 4. Run all cells to reproduce preprocessing steps, model training, and evaluation results.
+
 
 ---
 
