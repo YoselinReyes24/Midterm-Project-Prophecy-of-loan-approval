@@ -13,12 +13,8 @@ The conclusions describe how the reproduced results align with or differ from th
 ```
 ├── README.md                 # Project overview and documentation
 ├── requirements.txt
-├── data/
-│   └── data.csv              # Dataset used for the analysis (your .csv file)
-│
-├── models/
-│   └── final_notebook.ipynb  # Jupyter notebook containing all ML modeling work
-│
+├── loan_approval_dataset.csv      # Dataset used for the analysis
+├── Midter_LoanApproval(1).ipynb   # Jupyter notebook containing all ML modeling work
 └── **Presentation Link:** *[Insert your link here]*
 ```
 
